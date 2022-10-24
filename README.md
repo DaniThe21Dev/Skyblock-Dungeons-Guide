@@ -19,7 +19,7 @@
 # Dungeons Guide
 The most intelligent Hypixel Skyblock Dungeons Mod.
 ## Official Support Discord
-Join Our [Discord!](https://discord.gg/vuGsXhY5Bv)
+
 
 ## Features
 ### Solvers
@@ -74,7 +74,3 @@ Join Our [Discord!](https://discord.gg/vuGsXhY5Bv)
 ## Bannable
 Features such as **Secret Finder** are allowed under Hypixel rules as the waypoints are based on a static set of coordinates from a corner of the room a player is in. This is similar to fairy soul waypoints (which Simon has confirmed are allowed) since it is not scanning for the secrets but rather displaying a waypoint over a set coordinate. Dungeon Guide itself has been confirmed allowed on hypixel by an [admin](https://media.discordapp.net/attachments/781913473872560194/867454697387065354/image0.png)
 
-# Skyblock-Dungeons-Guide
-# Skyblock-Dungeons-Guide
-# Skyblock-Dungeons-Guide
-# Skyblock-Dungeons-Guide
